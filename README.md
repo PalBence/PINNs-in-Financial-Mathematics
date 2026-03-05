@@ -72,7 +72,6 @@ Options data for this project was pulled through the LSEG Refinitiv API.
 4. Create an `lseg-data.config.json` file with the following data:
 
 ```
-json
   {
     "default": "workspace",
     "sessions": {
