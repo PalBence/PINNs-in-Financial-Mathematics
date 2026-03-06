@@ -25,13 +25,6 @@ uv add PACKAGE_NAME
 uv add requests
 ```
 
-To install packages (instead of `pip install PACKAGE_NAME`) run:
-```bash
-uv add PACKAGE_NAME
-
-# For example:
-uv add requests
-```
 
 ### Project setup
 
