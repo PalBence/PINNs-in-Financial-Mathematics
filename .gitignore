@@ -95,6 +95,11 @@ ENV/
 env.bak/
 venv.bak/
 
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # =========================================================
 # uv (Python package manager)
 # =========================================================
