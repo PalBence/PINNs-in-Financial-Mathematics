@@ -11,7 +11,7 @@ As stated in the project report:
 3. Beginning of work on the report
 4. Implementation of a PINN for European options
 5. Evaluation of results
-6. Finishing of work on the report
+6. Finishing of work on the report, additional considerations
 7. Presentation preparation
 
 This repository belongs to step 4 of the project.
