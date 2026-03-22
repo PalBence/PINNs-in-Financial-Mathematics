@@ -1,10 +1,20 @@
 # PINNs in Financial Mathematics
 
-Work-in-progress repo for using PINNs for estimating European option prices using the Black-Scholes formula. 
+This repository for using PINNs for estimating European option prices using the Black-Scholes formula contributes to the project titled "PINNs in Financial Mathematics", completed for the DNDS5018 - Mathematics for AI course. 
 
-## Structure (planned)
-feel free to fill in
+## Overall project structure
 
+As stated in the project report:
+
+1. Research and mini-literature review
+2. Deciding the scope: option pricing
+3. Beginning of work on the report
+4. Implementation of a PINN for European options
+5. Evaluation of results
+6. Finishing of work on the report
+7. Presentation preparation
+
+This repository belongs to step 4 of the project.
 
 ## Setup
 
